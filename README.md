@@ -22,6 +22,10 @@ A fully featured, performant, and responsive AI Safety Incident Dashboard built 
 ![image](https://github.com/user-attachments/assets/583628b1-d77b-4b2a-a616-9ab8577e5c54)
 ![image](https://github.com/user-attachments/assets/d8ef574b-99d1-45ca-8515-ebdc42626ce9)
 
+## V1.0:
+![screenshot_01052025_140327](https://github.com/user-attachments/assets/7fb89c68-05c8-4982-ab71-5a20f524ae24)
+![screenshot_01052025_140446](https://github.com/user-attachments/assets/157b308b-b11d-4fa1-9c7d-b5b2fee10bfb)
+
 ##  Table of Contents
 - [Features](#features)
 - [Architecture](#architecture)
